@@ -1,0 +1,13 @@
+body{
+    margin: 0%;
+    padding: 0%;
+
+}
+h1{
+    text-align: center;
+    color: red;
+    background-image: url(imagenes/fondo.jpg);
+}
+footer{
+    background-color: aliceblue;
+}
